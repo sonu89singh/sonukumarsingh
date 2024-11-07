@@ -34,7 +34,7 @@
    top: 0;
    right: 0;
    z-index: 1;
-   background-image: url(img/4\ \(2\).jpg);
+   background-image: url(4\ \(2\).jpg);
    background-repeat: no-repeat;
 
 
@@ -92,7 +92,7 @@
 }
 
 .blog-firstimg {
-   background-image: url(img/1.jpg);
+   background-image: url(1.jpg);
    background-repeat: no-repeat;
    background-size: 100% 100%;
    width: 700px;
@@ -173,7 +173,7 @@ margin-top: 30px;
       top: 75px;
    }
    .blog-firstimg {
-      background-image: url(img/1.jpg);
+      background-image: url(1.jpg);
       background-repeat: no-repeat;
       background-size: 100% 100%;
       max-width:  90vw;
@@ -200,7 +200,7 @@ margin-top: 30px;
 }
 @media screen and (max-width:550px) {
    .blog-firstimg {
-      background-image: url(img/1.jpg);
+      background-image: url(1.jpg);
       background-repeat: no-repeat;
       background-size: 100% 100%;
       width: 90vw;

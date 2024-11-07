@@ -69,7 +69,7 @@
         .pattern{
             min-width: 369px;
             min-height: 458px;
-            background-image: url(img/dot.png);
+            background-image: url(dot.png);
             background-repeat: repeat;
             position: absolute;
             left: 7vw;
@@ -201,7 +201,7 @@
     .pattern{
         min-width: 369px;
         min-height: 458px;
-        background-image: url(img/dot.png);
+        background-image: url(dot.png);
         background-repeat: repeat;
         position: relative;
         left: 0vw;
